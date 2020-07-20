@@ -7751,6 +7751,10 @@ button.bg-black:focus {
   margin-top: 3rem !important;
 }
 
+.mt-10{
+  margin-top: 6rem !important;
+}
+
 .mr-5,
 .mx-5 {
   margin-right: 3rem !important;
@@ -10012,6 +10016,11 @@ a.text-black:hover, a.text-black:focus {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-white-gradient {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+
 .text-hide {
   font: 0/0 a;
   color: transparent;
@@ -10260,8 +10269,8 @@ body {
     padding: 0;
   }
   .masthead h1 {
-    font-size: 5.5rem;
-    line-height: 6.5rem;
+    font-size: 4rem;
+    line-height: 5rem;
     letter-spacing: 0.2rem;
   }
   .masthead h2 {
